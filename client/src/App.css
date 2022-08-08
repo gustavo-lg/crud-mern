@@ -12,3 +12,9 @@ input, button{
   font-size: 20px;
   margin: 5px;
 }
+
+.food{
+border: 2px solid black;
+margin: 5px;
+padding: 10px;
+}
